@@ -3,21 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>869783944248-kuel188327n6f3d6u8uufqbdh5106edb.apps.googleusercontent.com</string>
+	<string>1095668910941-ecbmc034tk85skmjt7ovm60r2daed5is.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.869783944248-kuel188327n6f3d6u8uufqbdh5106edb</string>
+	<string>com.googleusercontent.apps.1095668910941-ecbmc034tk85skmjt7ovm60r2daed5is</string>
 	<key>API_KEY</key>
-	<string>AIzaSyDKmtzzQ-GKmdAEoOahiXsIL1RVKx-fzf0</string>
+	<string>AIzaSyBizjcZ7SI8e5e_OqW7crtGiZqraFOt6Zs</string>
 	<key>GCM_SENDER_ID</key>
-	<string>869783944248</string>
+	<string>1095668910941</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.shaharyarbaig.InstaCloneFirebase</string>
+	<string>com.shaharyarbaig.SnapchatClone</string>
 	<key>PROJECT_ID</key>
-	<string>instaclonefirebase-bb1e8</string>
+	<string>snapchatclone-b95fe</string>
 	<key>STORAGE_BUCKET</key>
-	<string>instaclonefirebase-bb1e8.appspot.com</string>
+	<string>snapchatclone-b95fe.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +29,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:869783944248:ios:e6ff19993994b502f2bacd</string>
+	<string>1:1095668910941:ios:62c7ee76b9628b9e0a76b4</string>
 </dict>
 </plist>
