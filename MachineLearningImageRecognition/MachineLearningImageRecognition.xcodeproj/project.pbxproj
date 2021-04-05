@@ -13,6 +13,7 @@
 		44277F16261A4BEB000A8094 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44277F14261A4BEB000A8094 /* Main.storyboard */; };
 		44277F18261A4BEE000A8094 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44277F17261A4BEE000A8094 /* Assets.xcassets */; };
 		44277F1B261A4BEE000A8094 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44277F19261A4BEE000A8094 /* LaunchScreen.storyboard */; };
+		44394953261B07DA0036940C /* MobileNetV2.mlkitmodel in Sources */ = {isa = PBXBuildFile; fileRef = 44394952261B07DA0036940C /* MobileNetV2.mlkitmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		44277F17261A4BEE000A8094 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		44277F1A261A4BEE000A8094 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		44277F1C261A4BEE000A8094 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44394952261B07DA0036940C /* MobileNetV2.mlkitmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = MobileNetV2.mlkitmodel; path = ../../MobileNetV2.mlkitmodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				44277F0E261A4BEB000A8094 /* AppDelegate.swift */,
 				44277F10261A4BEB000A8094 /* SceneDelegate.swift */,
 				44277F12261A4BEB000A8094 /* ViewController.swift */,
+				44394952261B07DA0036940C /* MobileNetV2.mlkitmodel */,
 				44277F14261A4BEB000A8094 /* Main.storyboard */,
 				44277F17261A4BEE000A8094 /* Assets.xcassets */,
 				44277F19261A4BEE000A8094 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44277F13261A4BEB000A8094 /* ViewController.swift in Sources */,
+				44394953261B07DA0036940C /* MobileNetV2.mlkitmodel in Sources */,
 				44277F0F261A4BEB000A8094 /* AppDelegate.swift in Sources */,
 				44277F11261A4BEB000A8094 /* SceneDelegate.swift in Sources */,
 			);
